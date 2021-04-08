@@ -1,0 +1,6 @@
+pandas==1.1.4
+numpy==1.18.5
+seaborn==0.11.1
+matplotlib.pyplot==2.24.0
+IPython.display==2.24.0
+watermark==2.2.0
